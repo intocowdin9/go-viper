@@ -1,0 +1,12 @@
+{
+    "app": {
+        "name": "go-viper",
+        "version": "1.0.0",
+        "author": "Muhammad Rafli"
+    },
+    "database": {
+        "show_sql": true,
+        "host": "localhost",
+        "port": 3306
+    }
+}
